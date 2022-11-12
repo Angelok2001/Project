@@ -17,6 +17,7 @@ namespace Progect.Controllers
         public SectionsController(ProgectContext context)
         {
             _context = context;
+            hgkjkjnljlh
         }
 
         // GET: Sections
