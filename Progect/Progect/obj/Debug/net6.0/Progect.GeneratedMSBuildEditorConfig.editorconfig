@@ -1,0 +1,204 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Progect
+build_property.RootNamespace = Progect
+build_property.ProjectDir = C:\Users\AngelinaS\Project\Progect\Progect\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\AngelinaS\Project\Progect\Progect
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Documents/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Documents/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Documents/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Documents/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Documents/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/FunctionalAreas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY3Rpb25hbEFyZWFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/FunctionalAreas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY3Rpb25hbEFyZWFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/FunctionalAreas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY3Rpb25hbEFyZWFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/FunctionalAreas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY3Rpb25hbEFyZWFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/FunctionalAreas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY3Rpb25hbEFyZWFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Images/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Images/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Images/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Images/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Images/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Sections/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Sections/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Sections/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Sections/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Sections/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Structures/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RydWN0dXJlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Structures/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RydWN0dXJlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Structures/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RydWN0dXJlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Structures/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RydWN0dXJlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Structures/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RydWN0dXJlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Types/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Types/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Types/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Types/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Types/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AngelinaS/Project/Progect/Progect/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mhkxfggfew
